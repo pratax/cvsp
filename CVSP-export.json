@@ -1,0 +1,359 @@
+{
+    "name": "CVSP",
+    "securityToken": "CVSP Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "lighter",
+            "color": "#5db300"
+        }
+    ],
+    "id": "d0wmrZWYo",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "be9be29bfc109a6ec67f48e4420db991",
+    "assets": {
+        "2c16c2bb0870388edd70e7643c5cd18f": {
+            "asset": {
+                "format": "png",
+                "id": "2c16c2bb0870388edd70e7643c5cd18f",
+                "name": "IMG_9803.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9803.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "JZYRjU9Cg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 182.02740176361385,
+                        "width": 80.14495688384433,
+                        "left": 1563.8353534050707,
+                        "top": 2010.0549388923266
+                    },
+                    "points": [
+                        {
+                            "x": 1563.8353534050707,
+                            "y": 2010.0549388923266
+                        },
+                        {
+                            "x": 1643.980310288915,
+                            "y": 2010.0549388923266
+                        },
+                        {
+                            "x": 1643.980310288915,
+                            "y": 2192.0823406559407
+                        },
+                        {
+                            "x": 1563.8353534050707,
+                            "y": 2192.0823406559407
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "18fd061f11a614cc28c6b9b85ea479ac": {
+            "asset": {
+                "format": "png",
+                "id": "18fd061f11a614cc28c6b9b85ea479ac",
+                "name": "IMG_9802.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9802.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "GWIyi4jOQ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 475.82626856435644,
+                        "width": 178.1709463443396,
+                        "left": 1377.6537072523583,
+                        "top": 2271.4759436881186
+                    },
+                    "points": [
+                        {
+                            "x": 1377.6537072523583,
+                            "y": 2271.4759436881186
+                        },
+                        {
+                            "x": 1555.824653596698,
+                            "y": 2271.4759436881186
+                        },
+                        {
+                            "x": 1555.824653596698,
+                            "y": 2747.3022122524753
+                        },
+                        {
+                            "x": 1377.6537072523583,
+                            "y": 2747.3022122524753
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "f936e2c3d65c0a45aad3e7dbfacde69e": {
+            "asset": {
+                "format": "png",
+                "id": "f936e2c3d65c0a45aad3e7dbfacde69e",
+                "name": "IMG_9801.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9801.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "8T_mHNE-D",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 254.57650061881188,
+                        "width": 113.45537109374999,
+                        "left": 1660.6602428508254,
+                        "top": 2312.1078666460394
+                    },
+                    "points": [
+                        {
+                            "x": 1660.6602428508254,
+                            "y": 2312.1078666460394
+                        },
+                        {
+                            "x": 1774.1156139445754,
+                            "y": 2312.1078666460394
+                        },
+                        {
+                            "x": 1774.1156139445754,
+                            "y": 2566.6843672648515
+                        },
+                        {
+                            "x": 1660.6602428508254,
+                            "y": 2566.6843672648515
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "be9be29bfc109a6ec67f48e4420db991": {
+            "asset": {
+                "format": "png",
+                "id": "be9be29bfc109a6ec67f48e4420db991",
+                "name": "IMG_9800.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9800.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "sPEjXJhTn",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 515.5093208539604,
+                        "width": 189.94513929834903,
+                        "left": 1762.7937923791274,
+                        "top": 2509.1725711633662
+                    },
+                    "points": [
+                        {
+                            "x": 1762.7937923791274,
+                            "y": 2509.1725711633662
+                        },
+                        {
+                            "x": 1952.7389316774763,
+                            "y": 2509.1725711633662
+                        },
+                        {
+                            "x": 1952.7389316774763,
+                            "y": 3024.6818920173264
+                        },
+                        {
+                            "x": 1762.7937923791274,
+                            "y": 3024.6818920173264
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2eef4b19ff6309e717cbcc40a198c72c": {
+            "asset": {
+                "format": "png",
+                "id": "2eef4b19ff6309e717cbcc40a198c72c",
+                "name": "IMG_9799.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9799.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "VlUcXgTGA",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 655.2599396658416,
+                        "width": 274.09492371757074,
+                        "left": 1629.0468307783017,
+                        "top": 1859.323213180693
+                    },
+                    "points": [
+                        {
+                            "x": 1629.0468307783017,
+                            "y": 1859.323213180693
+                        },
+                        {
+                            "x": 1903.1417544958724,
+                            "y": 1859.323213180693
+                        },
+                        {
+                            "x": 1903.1417544958724,
+                            "y": 2514.5831528465346
+                        },
+                        {
+                            "x": 1629.0468307783017,
+                            "y": 2514.5831528465346
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "aa94d0232faadb3d413bf81fe46a7dba": {
+            "asset": {
+                "format": "png",
+                "id": "aa94d0232faadb3d413bf81fe46a7dba",
+                "name": "IMG_9792.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9792.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "_8S4MwnxJ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 185.05275371287127,
+                        "width": 612.4725530660377,
+                        "left": 1072.2852594339622,
+                        "top": 2145.958732982673
+                    },
+                    "points": [
+                        {
+                            "x": 1072.2852594339622,
+                            "y": 2145.958732982673
+                        },
+                        {
+                            "x": 1684.7578125,
+                            "y": 2145.958732982673
+                        },
+                        {
+                            "x": 1684.7578125,
+                            "y": 2331.0114866955446
+                        },
+                        {
+                            "x": 1072.2852594339622,
+                            "y": 2331.0114866955446
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "33bbe13cd0e95221c9da8bdb73e2988f": {
+            "asset": {
+                "format": "png",
+                "id": "33bbe13cd0e95221c9da8bdb73e2988f",
+                "name": "IMG_9791.png",
+                "path": "file:/Users/christianpratellesi/Desktop/CVSP%20Dataset/IMG_9791.png",
+                "size": {
+                    "width": 3024,
+                    "height": 4032
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "eOhLurEv-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "lighter"
+                    ],
+                    "boundingBox": {
+                        "height": 477.7368889232673,
+                        "width": 205.68585274174526,
+                        "left": 1425.8077535377358,
+                        "top": 2261.8650603341584
+                    },
+                    "points": [
+                        {
+                            "x": 1425.8077535377358,
+                            "y": 2261.8650603341584
+                        },
+                        {
+                            "x": 1631.4936062794811,
+                            "y": 2261.8650603341584
+                        },
+                        {
+                            "x": 1631.4936062794811,
+                            "y": 2739.6019492574255
+                        },
+                        {
+                            "x": 1425.8077535377358,
+                            "y": 2739.6019492574255
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}

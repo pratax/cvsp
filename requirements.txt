@@ -1,0 +1,10 @@
+ipython==7.34.0
+opencv-python==4.5.5.64
+pip-chill==1.0.3
+seaborn==0.11.2
+tensorboard==2.9.0
+thop==0.1.1.post2209072238
+torchaudio==0.7.2
+torchvision==0.8.2+cu101
+tqdm==4.64.0
+wandb==0.12.16
