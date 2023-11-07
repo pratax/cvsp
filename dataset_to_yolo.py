@@ -12,6 +12,18 @@ def get_args_parser():
 def run(phase):
     cat_dict = {
         "lighter": 0,
+        "scissor": 1,
+        "knife": 2,
+        "razor": 3,
+        "hammer": 4,
+        "screwdriver": 5,
+        "spray can": 6,
+        "axe": 7,
+        "plier": 8,
+        "battery": 9,
+        "match": 10,
+        "alcohol": 11,
+        "saw": 12
     }
 
     json_file = os.path.join(os.getcwd(), f'CVSP-export.json')
