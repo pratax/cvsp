@@ -24,7 +24,9 @@ def run(phase):
         "match": 10,
         "alcohol": 11,
         "saw": 12,
-        "wrench": 13
+        "wrench": 13,
+        "smartphone": 14,
+        "laptop": 15
     }
 
     json_file = os.path.join(os.getcwd(), f'CVSP-export.json')
