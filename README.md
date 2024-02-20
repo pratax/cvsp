@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Training
 To run the training procedure execute the following command while inside the yolov7 directory:
 ```
-python train.py --workers 8 --device 0 --batch-size 32 --data data/cvsp.yaml --img 640 640 --cfg cfg/training/cvsp.yaml --weights '' --name yolov7 --hyp data/hyp.scratch.p5.yaml
+python train.py --workers 4 --device 0 --batch-size 32 --data data/cvsp.yaml --img 320 320 --cfg cfg/training/cvsp-tiny.yaml --weights '' --name yolov7 --hyp data/hyp.scratch.tiny.yaml
 ```
 
 ## Testing
