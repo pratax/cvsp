@@ -1,0 +1,16 @@
+lighter
+scissor
+knife
+razor
+hammer
+screwdriver
+spray can
+axe
+plier
+battery
+match
+alcohol
+saw
+wrench
+smartphone
+laptop
